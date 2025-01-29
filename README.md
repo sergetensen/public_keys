@@ -1,2 +1,6 @@
-# public_keys
-This repo holds my public keys
+# ssh hardware backed fido2 ssh public_keys
+This repo holds (some of) my public keys. The comment field 'ssh:xxxxxxxx' holds the Yubikey serial for administrative purpose.
+
+sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIOw64C8pLKMEDbow2eA9bJ7ZyXV+9d4iY4S8SIxTZagvAAAADHNzaDoyMjMwNDQ3NA== ssh:22304474
+sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIFd5mFNRYHgD7dO/NuxPNzVvsDjc5jZYuQdMYTWRzJboAAAADHNzaDoxNTA5MTkwMA== ssh:15091900
+
